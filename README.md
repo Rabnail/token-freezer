@@ -18,9 +18,9 @@ npm start
 ```
 
 ## Author
-Twitter: [@DomPizzie](https://twitter.com/Rabnail_SOL)
+Twitter: [@Rabnail](https://twitter.com/Rabnail_SOL)
 
-Telegram: [@DomPizzie](https://t.me/rab_nail)
+Telegram: [@Rabnail](https://t.me/rab_nail)
 
 You can always find me here, for help, or for other projects.
 
